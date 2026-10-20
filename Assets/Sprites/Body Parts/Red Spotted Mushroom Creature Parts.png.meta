@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 16e6757cf9e02974c89671fa3c162236
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7072423468288727954
+    second: Red Spotted Mushroom Creature Parts_0
+  - first:
+      213: 7460132001890984119
+    second: Red Spotted Mushroom Creature Parts_1
+  - first:
+      213: 8236585977316067452
+    second: Red Spotted Mushroom Creature Parts_2
+  - first:
+      213: -8714284849787373296
+    second: Red Spotted Mushroom Creature Parts_3
+  - first:
+      213: -2234389646115479655
+    second: Red Spotted Mushroom Creature Parts_4
+  - first:
+      213: -7144518673327498437
+    second: Red Spotted Mushroom Creature Parts_5
+  - first:
+      213: 2998881167167125859
+    second: Red Spotted Mushroom Creature Parts_6
+  - first:
+      213: 3588690448611312620
+    second: Red Spotted Mushroom Creature Parts_7
+  - first:
+      213: 2530814809527889500
+    second: Red Spotted Mushroom Creature Parts_8
+  - first:
+      213: -3313715024692282240
+    second: Red Spotted Mushroom Creature Parts_9
+  - first:
+      213: 5636396686043093033
+    second: Red Spotted Mushroom Creature Parts_10
+  - first:
+      213: -8081241069542249451
+    second: Red Spotted Mushroom Creature Parts_11
+  - first:
+      213: 8057045557273596693
+    second: Red Spotted Mushroom Creature Parts_12
+  - first:
+      213: -7606465651117240950
+    second: Red Spotted Mushroom Creature Parts_13
+  - first:
+      213: -1642902908742967368
+    second: Red Spotted Mushroom Creature Parts_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 694
+        width: 1187
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64a38fa354b9dd90800000000000000
+      internalID: -7072423468288727954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 770
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b06c3eb786b78760800000000000000
+      internalID: 7460132001890984119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 742
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7843eb9e4b3e4270800000000000000
+      internalID: 8236585977316067452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 789
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019fad07914a01780800000000000000
+      internalID: -8714284849787373296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 752
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fd975847addf0e0800000000000000
+      internalID: -2234389646115479655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 653
+        width: 895
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b5b21be1299dc90800000000000000
+      internalID: -7144518673327498437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 595
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369fa94688a2e9920800000000000000
+      internalID: 2998881167167125859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_7
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 375
+        width: 53
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3805603f69dc130800000000000000
+      internalID: 3588690448611312620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_8
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 615
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e253219a24f1320800000000000000
+      internalID: 2530814809527889500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_9
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 107
+        width: 328
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c775aedb15302d0800000000000000
+      internalID: -3313715024692282240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_10
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 18
+        width: 132
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92899cc4ce0883e40800000000000000
+      internalID: 5636396686043093033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 201
+        width: 202
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ce2a1401aa9df80800000000000000
+      internalID: -8081241069542249451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_12
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 18
+        width: 129
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5139e6c0f3060df60800000000000000
+      internalID: 8057045557273596693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_13
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 85
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d42f48ac7607690800000000000000
+      internalID: -7606465651117240950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Spotted Mushroom Creature Parts_14
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 63
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf5beb428c3339e0800000000000000
+      internalID: -1642902908742967368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Red Spotted Mushroom Creature Parts_0: -7072423468288727954
+      Red Spotted Mushroom Creature Parts_1: 7460132001890984119
+      Red Spotted Mushroom Creature Parts_10: 5636396686043093033
+      Red Spotted Mushroom Creature Parts_11: -8081241069542249451
+      Red Spotted Mushroom Creature Parts_12: 8057045557273596693
+      Red Spotted Mushroom Creature Parts_13: -7606465651117240950
+      Red Spotted Mushroom Creature Parts_14: -1642902908742967368
+      Red Spotted Mushroom Creature Parts_2: 8236585977316067452
+      Red Spotted Mushroom Creature Parts_3: -8714284849787373296
+      Red Spotted Mushroom Creature Parts_4: -2234389646115479655
+      Red Spotted Mushroom Creature Parts_5: -7144518673327498437
+      Red Spotted Mushroom Creature Parts_6: 2998881167167125859
+      Red Spotted Mushroom Creature Parts_7: 3588690448611312620
+      Red Spotted Mushroom Creature Parts_8: 2530814809527889500
+      Red Spotted Mushroom Creature Parts_9: -3313715024692282240
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

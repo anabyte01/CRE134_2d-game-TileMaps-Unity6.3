@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 1318a72ac937a5e4c965000720cf1828
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7177253248195538947
+    second: Pixel Art Dog Rig Sprite Sheet_0
+  - first:
+      213: 3614773392236919297
+    second: Pixel Art Dog Rig Sprite Sheet_1
+  - first:
+      213: -761062304330382948
+    second: Pixel Art Dog Rig Sprite Sheet_2
+  - first:
+      213: 975473907410431628
+    second: Pixel Art Dog Rig Sprite Sheet_3
+  - first:
+      213: 767899456623179319
+    second: Pixel Art Dog Rig Sprite Sheet_4
+  - first:
+      213: 8777857807853320894
+    second: Pixel Art Dog Rig Sprite Sheet_5
+  - first:
+      213: 2245713760703622247
+    second: Pixel Art Dog Rig Sprite Sheet_6
+  - first:
+      213: 53230714545075190
+    second: Pixel Art Dog Rig Sprite Sheet_7
+  - first:
+      213: -8059987704629309254
+    second: Pixel Art Dog Rig Sprite Sheet_8
+  - first:
+      213: -8340706790004149492
+    second: Pixel Art Dog Rig Sprite Sheet_9
+  - first:
+      213: 7908157028990933212
+    second: Pixel Art Dog Rig Sprite Sheet_10
+  - first:
+      213: -1625539428637627357
+    second: Pixel Art Dog Rig Sprite Sheet_11
+  - first:
+      213: 6838999500627492246
+    second: Pixel Art Dog Rig Sprite Sheet_12
+  - first:
+      213: 4348517649666240583
+    second: Pixel Art Dog Rig Sprite Sheet_13
+  - first:
+      213: 4754729487404506175
+    second: Pixel Art Dog Rig Sprite Sheet_14
+  - first:
+      213: -7217359877693248044
+    second: Pixel Art Dog Rig Sprite Sheet_15
+  - first:
+      213: 3061597152820457271
+    second: Pixel Art Dog Rig Sprite Sheet_16
+  - first:
+      213: 2797031142146451411
+    second: Pixel Art Dog Rig Sprite Sheet_17
+  - first:
+      213: -2740493215713175823
+    second: Pixel Art Dog Rig Sprite Sheet_18
+  - first:
+      213: 6846512704876682903
+    second: Pixel Art Dog Rig Sprite Sheet_19
+  - first:
+      213: 9058322571066278318
+    second: Pixel Art Dog Rig Sprite Sheet_20
+  - first:
+      213: -7683611798403866388
+    second: Pixel Art Dog Rig Sprite Sheet_21
+  - first:
+      213: 4345136461004584742
+    second: Pixel Art Dog Rig Sprite Sheet_22
+  - first:
+      213: 1740189114079593996
+    second: Pixel Art Dog Rig Sprite Sheet_23
+  - first:
+      213: 3770412574737271864
+    second: Pixel Art Dog Rig Sprite Sheet_24
+  - first:
+      213: -8301517254001785208
+    second: Pixel Art Dog Rig Sprite Sheet_25
+  - first:
+      213: 4067810317949081719
+    second: Pixel Art Dog Rig Sprite Sheet_26
+  - first:
+      213: -1495718355308856141
+    second: Pixel Art Dog Rig Sprite Sheet_27
+  - first:
+      213: -6693080832241661354
+    second: Pixel Art Dog Rig Sprite Sheet_28
+  - first:
+      213: -6189081039390355538
+    second: Pixel Art Dog Rig Sprite Sheet_29
+  - first:
+      213: 5141719685736106571
+    second: Pixel Art Dog Rig Sprite Sheet_30
+  - first:
+      213: 4380776687428061417
+    second: Pixel Art Dog Rig Sprite Sheet_31
+  - first:
+      213: 3034882785606298874
+    second: Pixel Art Dog Rig Sprite Sheet_32
+  - first:
+      213: 5726700394122534104
+    second: Pixel Art Dog Rig Sprite Sheet_33
+  - first:
+      213: -8781609397950901175
+    second: Pixel Art Dog Rig Sprite Sheet_34
+  - first:
+      213: 474050758818646166
+    second: Pixel Art Dog Rig Sprite Sheet_35
+  - first:
+      213: 2351966601189131275
+    second: Pixel Art Dog Rig Sprite Sheet_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 844
+        width: 1110
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300b6b17dc9ba9360800000000000000
+      internalID: 7177253248195538947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ab0d39f314a2230800000000000000
+      internalID: 3614773392236919297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1244
+        width: 180
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c918272ddd92075f0800000000000000
+      internalID: -761062304330382948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1060
+        width: 6
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e6cdab954998d00800000000000000
+      internalID: 975473907410431628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1034
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7367d3fbc7028aa00800000000000000
+      internalID: 767899456623179319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 779
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba7cfd4b2731d970800000000000000
+      internalID: 8777857807853320894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 781
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c22fd54c06a2f10800000000000000
+      internalID: 2245713760703622247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 797
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f379978d0d1db000800000000000000
+      internalID: 53230714545075190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 384
+        width: 274
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0dd83e2eb252090800000000000000
+      internalID: -8059987704629309254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 483
+        width: 406
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c033d1e8d5bdf3c80800000000000000
+      internalID: -8340706790004149492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 545
+        width: 234
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8530d2bea6fbd60800000000000000
+      internalID: 7908157028990933212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 800
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ca9ab808ce079e0800000000000000
+      internalID: -1625539428637627357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 723
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69db9fdafc109ee50800000000000000
+      internalID: 6838999500627492246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 763
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7407fdf43c9095c30800000000000000
+      internalID: 4348517649666240583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 773
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c12d3f6413cf140800000000000000
+      internalID: 4754729487404506175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 717
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddefe13e69c6db90800000000000000
+      internalID: -7217359877693248044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 598
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fe533b36afc7a20800000000000000
+      internalID: 3061597152820457271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 725
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d72855210d01d620800000000000000
+      internalID: 2797031142146451411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f65c08a0ffc7f9d0800000000000000
+      internalID: -2740493215713175823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 692
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e9f5cd703b30f50800000000000000
+      internalID: 6846512704876682903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 178
+        width: 321
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea10f45a260a5bd70800000000000000
+      internalID: 9058322571066278318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 531
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0232467c35e5590800000000000000
+      internalID: -7683611798403866388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b6caf6960d4c30800000000000000
+      internalID: 4345136461004584742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 240
+        width: 178
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0647b287c4662810800000000000000
+      internalID: 1740189114079593996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 240
+        width: 174
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c81ed9242335430800000000000000
+      internalID: 3770412574737271864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 267
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88682727a061bcc80800000000000000
+      internalID: -8301517254001785208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 308
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77816079ee3c37830800000000000000
+      internalID: 4067810317949081719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 237
+        width: 160
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcb8cb94142e3be0800000000000000
+      internalID: -1495718355308856141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 88
+        width: 162
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a824dc1766d13a0800000000000000
+      internalID: -6693080832241661354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 275
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf4809f597fb1aa0800000000000000
+      internalID: -6189081039390355538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 289
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a0feaefce0b5740800000000000000
+      internalID: 5141719685736106571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 287
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e84676df25abcc30800000000000000
+      internalID: 4380776687428061417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 21
+        width: 243
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afce20360d11e1a20800000000000000
+      internalID: 3034882785606298874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 26
+        width: 232
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc53c6caa3597f40800000000000000
+      internalID: 5726700394122534104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 86
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94497ee87c4712680800000000000000
+      internalID: -8781609397950901175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 164
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698c3ec47aa249600800000000000000
+      internalID: 474050758818646166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pixel Art Dog Rig Sprite Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 21
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04067b992dd3a020800000000000000
+      internalID: 2351966601189131275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pixel Art Dog Rig Sprite Sheet_0: 7177253248195538947
+      Pixel Art Dog Rig Sprite Sheet_1: 3614773392236919297
+      Pixel Art Dog Rig Sprite Sheet_10: 7908157028990933212
+      Pixel Art Dog Rig Sprite Sheet_11: -1625539428637627357
+      Pixel Art Dog Rig Sprite Sheet_12: 6838999500627492246
+      Pixel Art Dog Rig Sprite Sheet_13: 4348517649666240583
+      Pixel Art Dog Rig Sprite Sheet_14: 4754729487404506175
+      Pixel Art Dog Rig Sprite Sheet_15: -7217359877693248044
+      Pixel Art Dog Rig Sprite Sheet_16: 3061597152820457271
+      Pixel Art Dog Rig Sprite Sheet_17: 2797031142146451411
+      Pixel Art Dog Rig Sprite Sheet_18: -2740493215713175823
+      Pixel Art Dog Rig Sprite Sheet_19: 6846512704876682903
+      Pixel Art Dog Rig Sprite Sheet_2: -761062304330382948
+      Pixel Art Dog Rig Sprite Sheet_20: 9058322571066278318
+      Pixel Art Dog Rig Sprite Sheet_21: -7683611798403866388
+      Pixel Art Dog Rig Sprite Sheet_22: 4345136461004584742
+      Pixel Art Dog Rig Sprite Sheet_23: 1740189114079593996
+      Pixel Art Dog Rig Sprite Sheet_24: 3770412574737271864
+      Pixel Art Dog Rig Sprite Sheet_25: -8301517254001785208
+      Pixel Art Dog Rig Sprite Sheet_26: 4067810317949081719
+      Pixel Art Dog Rig Sprite Sheet_27: -1495718355308856141
+      Pixel Art Dog Rig Sprite Sheet_28: -6693080832241661354
+      Pixel Art Dog Rig Sprite Sheet_29: -6189081039390355538
+      Pixel Art Dog Rig Sprite Sheet_3: 975473907410431628
+      Pixel Art Dog Rig Sprite Sheet_30: 5141719685736106571
+      Pixel Art Dog Rig Sprite Sheet_31: 4380776687428061417
+      Pixel Art Dog Rig Sprite Sheet_32: 3034882785606298874
+      Pixel Art Dog Rig Sprite Sheet_33: 5726700394122534104
+      Pixel Art Dog Rig Sprite Sheet_34: -8781609397950901175
+      Pixel Art Dog Rig Sprite Sheet_35: 474050758818646166
+      Pixel Art Dog Rig Sprite Sheet_36: 2351966601189131275
+      Pixel Art Dog Rig Sprite Sheet_4: 767899456623179319
+      Pixel Art Dog Rig Sprite Sheet_5: 8777857807853320894
+      Pixel Art Dog Rig Sprite Sheet_6: 2245713760703622247
+      Pixel Art Dog Rig Sprite Sheet_7: 53230714545075190
+      Pixel Art Dog Rig Sprite Sheet_8: -8059987704629309254
+      Pixel Art Dog Rig Sprite Sheet_9: -8340706790004149492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
