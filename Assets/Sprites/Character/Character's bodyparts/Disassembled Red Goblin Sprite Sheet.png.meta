@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: e6db5814dc208aa45ae74d442a6f9d7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4753774848789097097
+    second: Disassembled Red Goblin Sprite Sheet_0
+  - first:
+      213: -2185943200013045816
+    second: Disassembled Red Goblin Sprite Sheet_1
+  - first:
+      213: 7609452779937633644
+    second: Disassembled Red Goblin Sprite Sheet_2
+  - first:
+      213: -9046126485854709797
+    second: Disassembled Red Goblin Sprite Sheet_3
+  - first:
+      213: -657699917036304370
+    second: Disassembled Red Goblin Sprite Sheet_4
+  - first:
+      213: -8878151988401913299
+    second: Disassembled Red Goblin Sprite Sheet_5
+  - first:
+      213: 4349371809463921168
+    second: Disassembled Red Goblin Sprite Sheet_6
+  - first:
+      213: 5168820014829783359
+    second: Disassembled Red Goblin Sprite Sheet_7
+  - first:
+      213: -2522371008684328507
+    second: Disassembled Red Goblin Sprite Sheet_8
+  - first:
+      213: -3831815010562909255
+    second: Disassembled Red Goblin Sprite Sheet_9
+  - first:
+      213: -1305312033174410064
+    second: Disassembled Red Goblin Sprite Sheet_10
+  - first:
+      213: -2478175879510518291
+    second: Disassembled Red Goblin Sprite Sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1130
+        width: 919
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7755dbb26f2370eb0800000000000000
+      internalID: -4753774848789097097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1317
+        width: 51
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfaa00cd38f9a1e0800000000000000
+      internalID: -2185943200013045816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1191
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c659a4b9cf43a9960800000000000000
+      internalID: 7609452779937633644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 545
+        width: 308
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd79069b3e3b57280800000000000000
+      internalID: -9046126485854709797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 409
+        width: 197
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e084f3cf8616fd6f0800000000000000
+      internalID: -657699917036304370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 607
+        width: 383
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2240651ec77ac480800000000000000
+      internalID: -8878151988401913299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 343
+        width: 213
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ae133ed921c5c30800000000000000
+      internalID: 4349371809463921168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 423
+        width: 283
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39cbdbfa665bb740800000000000000
+      internalID: 5168820014829783359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 450
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c970a38eecbefcd0800000000000000
+      internalID: -2522371008684328507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 418
+        width: 71
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb536abc88a2dac0800000000000000
+      internalID: -3831815010562909255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 553
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bca8952f9992ede0800000000000000
+      internalID: -1305312033174410064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disassembled Red Goblin Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 51
+        width: 350
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de595d2ea20cb9dd0800000000000000
+      internalID: -2478175879510518291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Disassembled Red Goblin Sprite Sheet_0: -4753774848789097097
+      Disassembled Red Goblin Sprite Sheet_1: -2185943200013045816
+      Disassembled Red Goblin Sprite Sheet_10: -1305312033174410064
+      Disassembled Red Goblin Sprite Sheet_11: -2478175879510518291
+      Disassembled Red Goblin Sprite Sheet_2: 7609452779937633644
+      Disassembled Red Goblin Sprite Sheet_3: -9046126485854709797
+      Disassembled Red Goblin Sprite Sheet_4: -657699917036304370
+      Disassembled Red Goblin Sprite Sheet_5: -8878151988401913299
+      Disassembled Red Goblin Sprite Sheet_6: 4349371809463921168
+      Disassembled Red Goblin Sprite Sheet_7: 5168820014829783359
+      Disassembled Red Goblin Sprite Sheet_8: -2522371008684328507
+      Disassembled Red Goblin Sprite Sheet_9: -3831815010562909255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
